@@ -1,8 +1,8 @@
 # Grocery-Management-System
 
-TO RUN THIS PROJECT-----
+# TO RUN THIS PROJECT-----
 
---> First, install XAMPP server in your system
+# First, install XAMPP server in your system
 --> Goto XAMPP -> htdocs and create a folder named "project".
 --> Put folder 'itp' and 'pro' inside the 'project' folder.
 --> Now the structure will be Xampp -> htdocs -> project -> 1) folder = itp 2) folder = pro
