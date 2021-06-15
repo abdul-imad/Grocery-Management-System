@@ -8,8 +8,8 @@
 # Now the structure will be Xampp -> htdocs -> project -> 1) folder = itp 2) folder = pro
 # Then on chrome write localhost/phpmyadmin/
 # Create two databases with name
-    1) grocery
-    2) pro
+#    1) grocery
+#    2) pro
 # In grocery database import the sql file from project -> itp -> grocery.sql
 # In pro database import the sql file from project -> pro -> database -> pro.sql
 # Then to run the project write http://localhost/project/itp/index1.php
